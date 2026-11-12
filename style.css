@@ -766,26 +766,26 @@ button:focus-visible,
 }
 /* Centralização dos botões SEARCH e DELETE */
 .white-key {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: calc(var(--unit) * 0.045);
-    font-weight: bold;
-    line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: calc(var(--unit) * 0.045);
+  font-weight: bold;
+  line-height: 1;
 }
 
 /* Ajuste do texto dos botões */
 #btn-white-left,
 #btn-white-right {
-    white-space: nowrap;
+  white-space: nowrap;
 }
 /* Ajuste das informações do Pokémon */
 .info-screen {
-    font-size: calc(var(--unit) * 0.045);
-    line-height: 1.2;
-    overflow-y: auto;
-    overflow-x: hidden;
-    overflow-wrap: break-word;
-    box-sizing: border-box;
+  font-size: calc(var(--unit) * 0.045);
+  line-height: 1.2;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
 }
